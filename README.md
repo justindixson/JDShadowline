@@ -6,3 +6,8 @@
 
 
 [![JDShadowline's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdshadowline&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdshadowline&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![JDShadowline's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jdixson&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
