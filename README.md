@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-[![JDShadowline's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdshadowline)](https://github.com/anuraghazra/github-readme-stats)
+[![JDShadowline's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdshadowline&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 JDShadowline/JDShadowline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
