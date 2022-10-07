@@ -15,6 +15,6 @@
 </p>
 
 <p align="center">
-  <img  alt="jdshadowline's GitHub Stats" src="[https://awesome-github-stats.azurewebsites.net/user-stats/jdshadowline?cardType=github&theme=dracula](https://github-readme-stats.vercel.app/api/top-langs/?username=jdshadowline&layout=compact&theme=dracula)" /> 
-  <img  alt="jdshadowline's WakaTime Stats" src="[https://awesome-github-stats.azurewebsites.net/user-stats/jdshadowline?cardType=github&theme=dracula](https://github-readme-stats.vercel.app/api/wakatime?username=jdixson&theme=dracula)" /> 
+  <img alt="jdshadowline's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/jdshadowline?cardType=github&theme=dracula" />  
+  <img alt="jdshadowline's WakaTime Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/jdshadowline?cardType=github&theme=dracula" /> 
  </p>
