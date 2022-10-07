@@ -14,6 +14,7 @@
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dracula">    <img  alt="jdshadowline's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/jdshadowline?cardType=github&theme=dracula" />  </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdshadowline&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![JDShadowline's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jdixson&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img  alt="jdshadowline's GitHub Stats" src="[https://awesome-github-stats.azurewebsites.net/user-stats/jdshadowline?cardType=github&theme=dracula](https://github-readme-stats.vercel.app/api/top-langs/?username=jdshadowline&layout=compact&theme=dracula)" /> 
+  <img  alt="jdshadowline's WakaTime Stats" src="[https://awesome-github-stats.azurewebsites.net/user-stats/jdshadowline?cardType=github&theme=dracula](https://github-readme-stats.vercel.app/api/wakatime?username=jdixson&theme=dracula)" /> 
+ </p>
