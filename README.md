@@ -27,15 +27,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 July 2019 - To: 21 October 2022
+From: 13 July 2019 - To: 22 October 2022
 
-Total Time: 208 hrs 30 mins
+Total Time: 211 hrs
 
-Python       74 hrs 16 mins  >>>>>>>>>----------------   35.62 %
-SQL          36 hrs 21 mins  >>>>---------------------   17.44 %
-CSV          32 hrs 30 mins  >>>>---------------------   15.59 %
-Markdown     22 hrs 46 mins  >>>----------------------   10.92 %
-Other        18 hrs 2 mins   >>-----------------------   08.66 %
+Python       76 hrs 8 mins   >>>>>>>>>----------------   36.09 %
+SQL          36 hrs 27 mins  >>>>---------------------   17.28 %
+CSV          32 hrs 30 mins  >>>>---------------------   15.41 %
+Markdown     22 hrs 46 mins  >>>----------------------   10.79 %
+Other        18 hrs 25 mins  >>-----------------------   08.73 %
 ```
 
 <!--END_SECTION:waka-->
