@@ -27,7 +27,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 July 2019 - To: 17 December 2022
+From: 13 July 2019 - To: 18 December 2022
 
 Total Time: 311 hrs 51 mins
 
