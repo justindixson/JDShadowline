@@ -27,16 +27,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 July 2019 - To: 31 January 2023
+From: 13 July 2019 - To: 01 February 2023
 
-Total Time: 424 hrs 7 mins
+Total Time: 429 hrs 24 mins
 
-Python                     195 hrs 46 mins >>>>>>>>>>>>-------------   46.16 %
-SQL                        57 hrs 45 mins  >>>----------------------   13.62 %
-CSV                        45 hrs 57 mins  >>>----------------------   10.84 %
-Markdown                   35 hrs 15 mins  >>-----------------------   08.31 %
-YAML                       29 hrs 13 mins  >>-----------------------   06.89 %
-Other                      24 hrs 19 mins  >------------------------   05.73 %
+Python                     196 hrs 29 mins >>>>>>>>>>>--------------   45.76 %
+SQL                        61 hrs 6 mins   >>>>---------------------   14.23 %
+CSV                        46 hrs 53 mins  >>>----------------------   10.92 %
+Markdown                   35 hrs 27 mins  >>-----------------------   08.26 %
+YAML                       29 hrs 14 mins  >>-----------------------   06.81 %
+Other                      24 hrs 19 mins  >------------------------   05.66 %
 ```
 
 <!--END_SECTION:waka-->
