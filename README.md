@@ -1,11 +1,7 @@
 <div id="header" align="center">
 <div id="badges">
-  <a href="your-URL">
+  <a href="https://justindixson.com/going/6?https://www.linkedin.com/in/justindixson/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-    <a href="your-URL">
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
-      <a href="your-URL">
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a><br>
   <img src="https://komarev.com/ghpvc/?username=jdshadowline&style=flat-square&color=blue" alt=""/><br><br>
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
