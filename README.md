@@ -23,7 +23,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 July 2019 - To: 03 May 2023
+From: 13 July 2019 - To: 04 May 2023
 
 Total Time: 435 hrs 29 mins
 
@@ -32,7 +32,6 @@ SQL                        64 hrs          >>>>---------------------   14.70 %
 CSV                        47 hrs          >>>----------------------   10.80 %
 Markdown                   36 hrs 8 mins   >>-----------------------   08.30 %
 YAML                       29 hrs 28 mins  >>-----------------------   06.77 %
-Other                      24 hrs 35 mins  >------------------------   05.65 %
 ```
 
 <!--END_SECTION:waka-->
