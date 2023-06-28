@@ -18,21 +18,3 @@
   <img alt="jdshadowline's GitHub Stats" src="https://streak-stats.demolab.com?user=jdshadowline&theme=dracula" /> 
 
  </div>
- 
- 
-<!--START_SECTION:waka-->
-
-```txt
-From: 13 July 2019 - To: 26 June 2023
-
-Total Time: 442 hrs 2 mins
-
-Python                     198 hrs 24 mins >>>>>>>>>>>--------------   44.88 %
-SQL                        64 hrs          >>>>---------------------   14.48 %
-CSV                        47 hrs          >>>----------------------   10.64 %
-Markdown                   36 hrs 30 mins  >>-----------------------   08.26 %
-YAML                       29 hrs 39 mins  >>-----------------------   06.71 %
-```
-
-<!--END_SECTION:waka-->
-
