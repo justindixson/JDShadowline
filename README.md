@@ -15,6 +15,5 @@
 
 <div id="cards" align="center">
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dracula">    <img  alt="jdshadowline's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/jdshadowline?cardType=github&theme=dracula" />  </a>
-  <img alt="jdshadowline's GitHub Stats" src="https://streak-stats.demolab.com?user=jdshadowline&theme=dracula" /> 
 
  </div>
